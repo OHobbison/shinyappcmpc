@@ -1,0 +1,13 @@
+name: rna_sgf
+title: rna_sgf
+username:
+account: vinicius-richter
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9307013
+bundleId: 7376068
+url: https://vinicius-richter.shinyapps.io/rna_sgf/
+when: 1687445652.67585
+lastSyncTime: 1687445652.67589
+asMultiple: FALSE
+asStatic: FALSE
